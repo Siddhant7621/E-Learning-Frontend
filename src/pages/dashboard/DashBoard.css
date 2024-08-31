@@ -1,0 +1,14 @@
+.student-dashboard{
+    padding: 80px;
+    text-align: center;
+    min-height: 55vh;
+
+    .dashboard-content{
+        display: flex;
+        justify-content: space-around;
+        flex-wrap: wrap;
+        gap: 20px;
+        margin-top: 40px;
+    }
+}
+
